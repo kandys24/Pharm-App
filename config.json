@@ -1,0 +1,10 @@
+{
+  "jwtSecret": "v3Ry$3cure!Key_Th@t1sH@rd2Gu3ss",
+  "database": {
+    "host": "localhost",
+    "user": "admin",
+    "password": "1234&4321",
+    "dbName": "pharmy"
+  }
+}
+  
